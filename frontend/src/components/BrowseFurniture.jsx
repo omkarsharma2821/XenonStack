@@ -102,7 +102,7 @@ const BrowseFurniture = () => {
 
                         <div class="offcanvas offcanvas-start" data-bs-backdrop="static" tabindex="-1" id="staticBackdrop" aria-labelledby="staticBackdropLabel">
                           <div class="offcanvas-header">
-                            <h1 class="offcanvas-title display-3" id="staticBackdropLabel">VintiMart</h1>
+                            <h1 class="offcanvas-title display-3" id="staticBackdropLabel">XenonStack</h1>
                             <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                           </div>
                           <div class="offcanvas-body">
