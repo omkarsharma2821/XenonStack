@@ -104,4 +104,4 @@ Omkar Sharma - [LINKEDIN](https://www.linkedin.com/in/omkarsharmaa/) <br>
 Email - omkarsharma2821@gmail.com <br>
 Project Link: [GITHUB](https://github.com/omkarsharma2821/XenonStack) 
 
-## Frontend Part is Deployed on Netlify.
+## Frontend Part is Deployed on Netlify and Backend is to be Live on Render 
