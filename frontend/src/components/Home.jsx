@@ -11,7 +11,7 @@ const Home = () => {
       <div className="content vh-100">
         <nav className="help">
         </nav>
-        <h1 className="homeMainFont">VintiMart</h1>
+        <h1 className="homeMainFont">FutureArena</h1>
       </div>
     </div> 
     </div>
