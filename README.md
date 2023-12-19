@@ -19,16 +19,17 @@
 ## :star2: Glimpses of Task
 
 ### :camera: Snapshots
-<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/VintiMart/blob/master/screenshots/Screenshot%202023-12-14%20194816.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/VintiMart/blob/master/screenshots/Screenshot%202023-12-14%20195008.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/VintiMart/blob/master/screenshots/Screenshot%202023-12-14%20195541.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/VintiMart/blob/master/screenshots/Screenshot%202023-12-14%20195650.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/VintiMart/blob/master/screenshots/Screenshot%202023-12-14%20195909.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/VintiMart/blob/master/screenshots/Screenshot%202023-12-14%20200049.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/VintiMart/blob/master/screenshots/Screenshot%202023-12-14%20204917.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/VintiMart/blob/master/screenshots/Screenshot%202023-12-14%20205039.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/VintiMart/blob/master/screenshots/Screenshot%202023-12-14%20205158.png" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/VintiMart/blob/master/screenshots/Screenshot%202023-12-14%20205331.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/XenonStack/blob/main/screenshots/Screenshot%202023-12-19%20185853.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/XenonStack/blob/main/screenshots/Screenshot%202023-12-19%20190752.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/XenonStack/blob/main/screenshots/Screenshot%202023-12-19%20190018.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/XenonStack/blob/main/screenshots/Screenshot%202023-12-19%20190055.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/XenonStack/blob/main/screenshots/Screenshot%202023-12-19%20190141.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/XenonStack/blob/main/screenshots/Screenshot%202023-12-19%20190157.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/XenonStack/blob/main/screenshots/Screenshot%202023-12-19%20190219.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/XenonStack/blob/main/screenshots/Screenshot%202023-12-19%20190324.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/XenonStack/blob/main/screenshots/Screenshot%202023-12-19%20190324.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/XenonStack/blob/main/screenshots/Screenshot%202023-12-19%20190341.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href="https://vintimart.netlify.app/"><img src="https://github.com/omkarsharma2821/XenonStack/blob/main/screenshots/Screenshot%202023-12-19%20190429.png" alt='image' width='800'/></a> </div>
 
 
 <details> <summary>Database</summary> <ul>
