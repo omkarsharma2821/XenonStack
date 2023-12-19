@@ -5,6 +5,7 @@ const userRouter = require('./routers/userRouter');
 const furnitureRouter  = require('./routers/FurnitureRouter');
 const orderRouter  = require('./routers/orderRouter');
 const utilRouter  = require('./routers/util');
+const contactRouter  = require('./routers/contactRouter');
 const cors = require('cors');
 
 //intialize express
@@ -20,6 +21,7 @@ app.use(cors({
 app.use('/user', userRouter);
 app.use('/furniture', furnitureRouter);
 app.use('/order', orderRouter);
+app.use('/contact', contactRouter);
 app.use('/util', utilRouter);
 
 app.use(express.static('./uploads'));
