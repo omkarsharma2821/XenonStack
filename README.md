@@ -1,9 +1,9 @@
 <div align='center'>
 
-<h1>VintiMart</h1>
-<p>VintiMart is for furniture lovers seeking to add a touch of elegance to their homes without breaking the bank. It extends a helping hand to those seeking to furnish their homes with dignity and grace also empowers both the furniture donor and the recipient, fostering a spirit of community and shared purpose.</p>
+<h1>FurnitureArena</h1>
+<p>FurnitureArena is for furniture lovers seeking to add a touch of elegance to their homes without breaking the bank. It extends a helping hand to those seeking to furnish their homes with dignity and grace also empowers both the furniture donor and the recipient, fostering a spirit of community and shared purpose.</p>
 
-<h4> <a href=https://vintimart.netlify.app/>View Demo</a> <span> · </span> <a href="https://github.com/omkarsharma2821/VintiMart/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/omkarsharma2821/VintiMart/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/omkarsharma2821/VintiMart/issues"> Request Feature </a> </h4>
+<h4> <a href=https://XenonStack.netlify.app/>View Demo</a> <span> · </span> <a href="https://github.com/omkarsharma2821/XenonStack/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/omkarsharma2821/XenonStack/issues"> Report Bug </a> <span> . </span> <a href="https://github.com/omkarsharma2821/XenonStack/issues"> Request Feature </a> </h4>
 
 
 </div>
